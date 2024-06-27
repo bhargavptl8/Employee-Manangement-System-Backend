@@ -9,3 +9,6 @@ JsonWebToken - use for Create a Token, Verify Token, Authentication, Authorisati
 security 
 Cors - Port cross verify like a Frontend and Backend work as same port so that not work and this problem handle by cors. Work in same port then cors change a port for error handling,
 Nodemailer - use for send E-Mail to Reciever,
+
+
+start with :- npm start
